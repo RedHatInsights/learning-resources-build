@@ -1,1 +1,0 @@
-(self.webpackChunklearning_resources_app=self.webpackChunklearning_resources_app||[]).push([[497],{497:()=>{}}]);

@@ -1,11 +1,11 @@
 {
-    "learningResources": {
-        "entry": [
-            "/beta/apps/learning-resources/learningResources.1688669797724.6162848cc71b732ccab1.js"
-        ],
-        "modules": [
-            "/beta/apps/learning-resources/js/730.1688669797749.6162848cc71b732ccab1.js",
-            "/beta/apps/learning-resources/css/730.0724469fd79f80f9dfe8.css"
-        ]
-    }
+  "name": "learningResources",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/learningResources/",
+  "loadScripts": [
+    "learningResources.87f050ce57498d3b35eb.js"
+  ],
+  "buildHash": "87f050ce57498d3b35eb6f4fc18a656c"
 }

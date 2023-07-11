@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/beta/apps/learningResources/",
+  "baseURL": "/beta/apps/learning-resources/",
   "loadScripts": [
-    "learningResources.87f050ce57498d3b35eb.js"
+    "learningResources.1716333ce7e6a6c2645a.js"
   ],
-  "buildHash": "87f050ce57498d3b35eb6f4fc18a656c"
+  "buildHash": "1716333ce7e6a6c2645ad5dd46bbfe7e"
 }

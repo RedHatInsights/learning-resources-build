@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunklearningResources=self.webpackChunklearningResources||[]).push([[178],{5730:(e,n,r)=>{r.r(n),r.d(n,{default:()=>u});var t=r(3264),s=r.n(t),a=r(7190),c=function(){return c=Object.assign||function(e){for(var n,r=1,t=arguments.length;r<t;r++)for(var s in n=arguments[r])Object.prototype.hasOwnProperty.call(n,s)&&(e[s]=n[s]);return e},c.apply(this,arguments)};const u=function(e){return s().createElement(a.g,c({},e))}}}]);
-//# sourceMappingURL=../../sourcemaps/exposed-./RootApp.b13ed0e9b0eb26f860d678e1640a565d.js.map

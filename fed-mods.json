@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/learning-resources/",
   "loadScripts": [
-    "learningResources.7acc14e221976c525d38.js"
+    "learningResources.564a79b77d713c310ab4.js"
   ],
-  "buildHash": "7acc14e221976c525d38e44ea0244ad0"
+  "buildHash": "564a79b77d713c310ab45b4ed0b03e76"
 }

@@ -2,10 +2,10 @@
   "name": "learningResources",
   "version": "1.0.0",
   "extensions": [],
-  "registrationMethod": "callback",
+  "registrationMethod": "custom",
   "baseURL": "/beta/apps/learning-resources/",
   "loadScripts": [
-    "learningResources.564a79b77d713c310ab4.js"
+    "learningResources.37963d66c96b8de7f3b9.js"
   ],
-  "buildHash": "564a79b77d713c310ab45b4ed0b03e76"
+  "buildHash": "37963d66c96b8de7f3b935d169245e6f"
 }

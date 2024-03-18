@@ -1,1 +1,0 @@
-{"version":3,"file":"js/exposed-./RootApp.37963d66c96b8de7f3b9.js","mappings":"oLAGA,MAEA,EAFkBA,GAA8B,kBAAC,IAAG,IAAKA,G","sources":["webpack:///./src/AppEntry.tsx"],"sourcesContent":["import React from 'react';\nimport { App } from './App';\n\nconst AppEntry = (props: { bundle: string }) => <App {...props} />;\n\nexport default AppEntry;\n"],"names":["props"],"sourceRoot":""}

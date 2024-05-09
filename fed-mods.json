@@ -5,7 +5,7 @@
   "registrationMethod": "custom",
   "baseURL": "/beta/apps/learning-resources/",
   "loadScripts": [
-    "learningResources.72f16a786d64abdb82ce.js"
+    "learningResources.b026492a82c7fae29fb9.js"
   ],
-  "buildHash": "72f16a786d64abdb82ced8731011c41f"
+  "buildHash": "b026492a82c7fae29fb9b1f841dcf333"
 }

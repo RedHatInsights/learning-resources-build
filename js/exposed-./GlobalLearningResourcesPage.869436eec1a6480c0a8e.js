@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunklearningResources=self.webpackChunklearningResources||[]).push([[298],{8726:(e,n,s)=>{s.r(n),s.d(n,{GlobalLearningResourcesPage:()=>r,default:()=>u});var a=s(32747),l=s.n(a);const r=()=>l().createElement("div",null,"Foo"),u=r}}]);
-//# sourceMappingURL=../../sourcemaps/exposed-./GlobalLearningResourcesPage.ee622924ab6ef26c632c72c5528107a2.js.map

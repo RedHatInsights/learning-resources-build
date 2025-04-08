@@ -1,14 +1,14 @@
 {
   "app_name": "learning-resources",
   "node_version": ">=16.0.0",
-  "src_hash": "1e8694d28d15746a8725312b9e32ed2f731b5251",
+  "src_hash": "bc39c180dbd29009902c3bbc2460c8d2fd7d37cf",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/quickstarts@5.4.1","@patternfly/react-code-editor@5.4.11","@patternfly/react-core@5.4.8","@patternfly/react-table@5.4.9","@patternfly/react-tokens@5.4.1"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@4.1.1","@redhat-cloud-services/frontend-components-utilities@4.0.19","@redhat-cloud-services/frontend-components@4.2.22","@redhat-cloud-services/types@1.0.14"],
   "travis": {
     "event_type": "push",
-    "build_number": "707",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/learning-resources/builds/274804509"
+    "build_number": "712",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/learning-resources/builds/274821456"
   }
 }
